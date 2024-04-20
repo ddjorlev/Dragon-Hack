@@ -1,5 +1,5 @@
 Random: MAJSKE IGRE(Rozna dolina, otvoritev, 7.5.), DAN MESTNEGA LOGA (majske igre) ( 14.5.), ZAKLJUCEK MAJSKIH IGAR (majske igre) (Kardeljeva ploscad, 28.5.)
-Concert: JET BLACK DIAMONDS(KinoSiska, 23.4.), NAJVECJA SLOVENSKA VESELICA(Studentski kampus, 23.4), CAPITAL CREW(prestavitev albuma crew)(Kino Siska 26.4), IVAN ZAK(Nebo, 24.4.), TEO COLLORI & MOMENTO CIGANO(KinoSiska, 24.4.), GODSPPED YOU!BLACK EMPEROR(KinoSiska, 25.4),SHOW NIGHT(Nebo, 27.4.) ORCHESTRE TOUT PUISSANT MARCEL DUCHAMP + YEGOR ZABELOV(KinoSiska, 3.5.),  YEGOR ZABELOV + PEPPE LEONE(KinoSiska, 4.5.),IMMORTAL ONION X MICHAL JAN(KinoSiska, 8.5.), RŠ PRAZNUJE 55 LET: THE CANYON OBSERVER, ŠIROM, ETCETERAL: DUO, HALOBAN (dvorana Katedrala, 9.5.), SASA MATIC(Krizanke, 18.5), NIKOLIJA(PREMIJERA ALBUMA)(27.4.)
+Concert: JET BLACK DIAMONDS(KinoSiska, 23.4.), NAJVECJA SLOVENSKA VESELICA(Studentski kampus, 23.4), CAPITAL CREW(prestavitev albuma crew)(Kino Siska 26.4), IVAN ZAK(Nebo, 24.4.), TEO COLLORI & MOMENTO CIGANO(KinoSiska, 24.4.), GODSPPED YOU!BLACK EMPEROR(KinoSiska, 25.4),SHOW NIGHT(Nebo, 27.4.) ORCHESTRE TOUT PUISSANT MARCEL DUCHAMP + YEGOR ZABELOV(KinoSiska, 3.5.),  YEGOR ZABELOV + PEPPE LEONE(KinoSiska, 4.5.),IMMORTAL ONION X MICHAL JAN(KinoSiska, 8.5.), RŠ PRAZNUJE 55 LET: THE CANYON OBSERVER, ŠIROM, ETCETERAL: DUO, HALOBAN (dvorana Katedrala, 9.5.), SASA MATIC(Krizanke, 18.5), NIKOLIJA(PREMIJERA ALBUMA)(27.4.), 38. SLOVENSKI GLASBENI DNEVI (Krizanke, 17.4.-24.4.)
 Active : POHOD NA ROZNIK(majske igre) (Roznik, 22.5.), TURNIR V FUTSTALU(Studentski kampus, 11.5.)
 Party: BEER PONG PARTY (Studentski kampus, 25.4.)
 Stand-up(Comedy): VECSTUDENTSKI SPOMLADANSKI STAND-UP(Studentski kampus, 24.4.)
@@ -7,6 +7,44 @@ Quiz:STAR WARS(Pub Quiz)(CuttySarkPub, 24.4.), PUB KVIZ(Harat'sPub, 23.4.)
 Picnic:
 Cinema:
 Fashion: FASHION SHOW 3.0 (Zorica, 28.4.)
-TedTalk?: RAZLITA TINTA | STRIPOVSKI OBLACKI OD DESNE PROTI LEVI(KinoSiska, 22.4.)
-Art: TIM TOPIĆ:ALGORITMIJA (Kino Siska 8.4.-10.5.), SVEZE RIBE:#NOVULOV(KinoSiska 9.4.-22.5), EVA BEVEC:KLJUCI,VODA,TELEFON(IN VSI,KI JIH IMAM RADA)(KinoSiska, 9.4.-4.5.), MATIC FLAJS:SUDOKU(7.5.)
+TedTalk: RAZLITA TINTA | STRIPOVSKI OBLACKI OD DESNE PROTI LEVI(KinoSiska, 22.4.)
+Art: TIM TOPIĆ:ALGORITMIJA (Kino Siska 8.4.-10.5.), SVEZE RIBE:#NOVULOV(KinoSiska 9.4.-22.5), EVA BEVEC:KLJUCI,VODA,TELEFON(IN VSI,KI JIH IMAM RADA)(KinoSiska, 9.4.-4.5.), MATIC FLAJS:SUDOKU(7.5.), NASMEHI; KI ODPIRAJO SRCA(Cankarjev dom, 13.3-5.5.), BLAZKA KRIZAN:TEKSTURE CASA(Galerija Europlakat, 12.3.-13.5.)
 Ples/Gledalisce?:TATOVI PODOB PREDSTAVLJAJI: MAD JAKALE V FILMU, KI GA NISMO VIDELI(KinoSiska, 23.4.), CABARET NIGHT(Nebo, 26.4.), SHOW NIGHT(Nebo, 27.4.), SHOW NIGHT(Nebo, 30.4.)
+Zoo/Aquarium:
+Restaurant:
+Ski:
+Play board game:
+Spa/Wellness:
+Day trip:
+DIY project:
+Bake:
+Gym:
+Camping:
+Thrifting:
+Stargazing/Watch sunset:
+Sports game:
+Mini golf:
+Laser tag:
+Make tiktok:
+Write a loveletter:
+Have photoshoot:
+Karaoke:
+Amusment park:
+Horse riding:
+Wine tasting:
+Double date:
+Gledalisce:
+Escape room:
+Watch TV Show:
+Go sailing:
+Volunteer:
+ICe skating/Roller skating:
+Some kind of class:
+Play sport:
+Beach:
+
+
+
+
+
+
