@@ -20,13 +20,13 @@ Welcome to EventEase! Your ultimate destination for discovering exciting events 
 3. Answer Quiz: Complete a brief quiz consisting of 6 multiple-choice questions to help us understand your preferences.
 4. Get Recommendations: Based on your quiz responses, we'll generate personalized event recommendations for you, accompanied by enticing images.
 5. Explore Popular Events: Check out the statistics page to discover trending events in Ljubljana and keep track of upcoming activities on the calendar.
-   
+6. 
 ## Upgrade and Scalability
 We're committed to continuously improving What's On Tonight and ensuring scalability as our user base grows. Here's what we're focusing on for future upgrades:
 
 1. Enhanced Recommendation Algorithm: Continuously refine our recommendation model to provide even more accurate and relevant 2. event suggestions.
-3. Geo-Location Integration: Implement geo-location features to provide event recommendations based on the user's current location, enabling personalized experiences for users traveling to Ljubljana.
-4. Scalable Infrastructure: Invest in scalable infrastructure to accommodate a growing user base without compromising performance or reliability.
+2. Geo-Location Integration: Implement geo-location features to provide event recommendations based on the user's current location, enabling personalized experiences for users traveling to Ljubljana.
+3. Scalable Infrastructure: Invest in scalable infrastructure to accommodate a growing user base without compromising performance or reliability.
 
 ## Stay Updated
 Keep an eye out for future updates and enhancements to What's On Tonight as we strive to make your event-planning experience even more delightful.
