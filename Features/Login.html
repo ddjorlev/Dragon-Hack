@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Login</title>
+  <link rel="stylesheet" href="./Login.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<script src="https://code.jquery.com/jquery-2.1.0.min.js" ></script>
+<body>
+<div id="formWrapper">
+
+<div id="form">
+		<h1 style="color: rgb(85, 177, 223);">Log in</h1>
+		<div class="form-item">
+			<p class="formLabel">Username</p>
+			<input type="email" name="email" id="email" class="form-style" autocomplete="off"/>
+		</div>
+		<div class="form-item">
+			<p class="formLabel">Password</p>
+			<input type="password" name="password" id="password" class="form-style" />
+			<!-- <div class="pw-view"><i class="fa fa-eye"></i></div> -->
+			<p><a href="../gradnja.html" ><small>Forgot Password ?</small></a></p>	
+		</div>
+		<div class="form-item">
+		<p class="pull-left"><a href="Register.html"><small>Register</small></a></p>
+		<input type="submit" class="login pull-right" value="Log In">
+		<div class="clear-fix"></div>
+		</div>
+
+
+		<button 
+		onmouseover="this.style.backgroundColor='rgb(84, 114, 222)'"
+		onmouseout="this.style.backgroundColor='rgb(85 177 223)'" 
+		type="button" style="font-size: 14px ;border-radius: 10px; background-color: rgb(85 177 223); height: 35px; width: auto; padding-right: 25px;"  class="myButton">
+			<img src="/Features/Statistics/Statistika/Andrej/Microsoft_logo.png" style="height: 14px; width: 14px;" class="slika">
+			Log in with Microsoft
+		</button>
+		<button 
+		onmouseover="this.style.backgroundColor='rgb(84, 114, 222)'"
+		onmouseout="this.style.backgroundColor='rgb(85 177 223)'"  
+		type="button" style=" font-size: 14px ; border-radius: 10px; background-color: rgb(85 177 223); height: 35px; width: auto; padding-right: 25px;" class="myButton">
+			<img src="/Features/Statistics/Statistika/Andrej/google_logo.png" style="height: 14px; width: 14px;" class="slika">
+			Log in with Google
+		</button>
+
+
+</div>
+</div>
+</body>
+</html>
+<!-- partial -->
+  <script  src="./Login.js"></script>
+
+</body>
+</html>

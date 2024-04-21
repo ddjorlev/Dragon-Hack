@@ -1,0 +1,63 @@
+
+.typing.animate {
+  width: 21ch;
+  border-right: 0.1em solid rgb(255, 255, 255);
+  font-family: monospace;
+  font-size: 2em;
+  color: #f69f82;
+  animation: type 2.5s steps(20), writer 1s infinite alternate, delete 0.5s steps(5) 2.5s, type2 1s steps(4) 3s forwards, type3 3s steps(22, end) 4s forwards;
+  overflow: hidden;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.typing.animate::before { 
+  content: "DISCOVER YOUR NEXT FAVOURITE THING";
+  animation: type2 1s steps(7) 3s forwards, type3 3s steps(22, end) 6s forwards;
+}
+
+@keyframes type {
+  from {
+    width: 0;
+  }
+  to {
+    width: 21ch;
+  }
+}
+
+@keyframes type2 {
+  from {
+    width: 16ch;
+    content: "DISCOVER YOUR NEXT FAVOURITE THING   "
+  }
+  to {
+    width: 20ch;
+    content:  "DISCOVER YOUR NEXT FAVOURITE THING   "
+  }
+}
+
+@keyframes type3 {
+  from {
+    width: 20ch;
+    content: "DISCOVER YOUR NEXT FAVOURITE THING!..........."
+  }
+  to {
+    width: 42ch;
+    content: "DISCOVER YOUR NEXT FAVOURITE THING!..........."
+  }
+}
+
+@keyframes writer {
+  50% {
+    border-color: transparent;
+  }
+}
+
+@keyframes delete {
+  from {
+    width: 21ch;
+  }
+  to {
+    width: 16ch;
+  }
+}
