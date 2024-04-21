@@ -20,7 +20,11 @@ Welcome to EventEase! Your ultimate destination for discovering exciting events 
 3. Answer Quiz: Complete a brief quiz consisting of 6 multiple-choice questions to help us understand your preferences.
 4. Get Recommendations: Based on your quiz responses, we'll generate personalized event recommendations for you, accompanied by enticing images.
 5. Explore Popular Events: Check out the statistics page to discover trending events in Ljubljana and keep track of upcoming activities on the calendar.
+<<<<<<< HEAD
 6. 
+=======
+
+>>>>>>> 9b3dcd9c086f4f6c5eec1e12bcdd99e792f8cd3f
 ## Upgrade and Scalability
 We're committed to continuously improving What's On Tonight and ensuring scalability as our user base grows. Here's what we're focusing on for future upgrades:
 
