@@ -1,6 +1,5 @@
 # Dragon Hack
 
-This is our event app! ;)
 ## EventEase
 Welcome to EventEase! Your ultimate destination for discovering exciting events tailored to your preferences in and around Ljubljana. Whether you're planning a romantic date night or a fun hangout with friends, we've got you covered.
 
