@@ -43,7 +43,11 @@ def recommend(choice, activity, day):
     chosen_cluster = clustering_model.predict([choice])[0]
 
     events_in_chosen_cluster = [new_data[i] for i, label in enumerate(cluster_labels) if label == chosen_cluster]
-    best_event = max(events_in_chosen_cluster, key=lambda x: max(x[2]))
+
+    if activity == 0:
+        best_event = max(events_in_chosen_cluster, key=lambda x: max(x[2]))
+    if activity == 1:
+        best_event = min(events_in_chosen_cluster, key=lambda x: max(x[2]))
 
     return best_event[0]
 

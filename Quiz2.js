@@ -81,19 +81,16 @@ const quizdata=[
 ];
 /** Random shuffle questions **/
 function shuffleArray(question){
-   var shuffled=question.sort(function() {
-    return .5 - Math.random();
- });
-   return shuffled;
+   return question;
 }
 
 function shuffle(a) {
-  for (var i = a.length; i; i--) {
-    var j = Math.floor(Math.random() * i);
-    var _ref = [a[j], a[i - 1]];
-    a[i - 1] = _ref[0];
-    a[j] = _ref[1];
-  }
+  // for (var i = a.length; i; i--) {
+  //   var j = Math.floor(Math.random() * i);
+  //   var _ref = [a[j], a[i - 1]];
+  //   a[i - 1] = _ref[0];
+  //   a[j] = _ref[1];
+  // }
 }
 
 /*** Return shuffled question ***/
@@ -260,7 +257,7 @@ function totalPieChart(_upto, _cir_progress_id, _correct, _incorrect) {
           "Thai Sabai"
           ]
           var nature = ["MAJSKE IGRE(Rozna dolina, otvoritev, 7.5.2024)", "DAN MESTNEGA LOGA (majske igre) (14.5.2024)", "ZAKLJUCEK MAJSKIH IGAR (majske igre) (Kardeljeva ploscad, 28.5.)"]
-          var sport = ["ALEKSANDRA PRIJOVIC(Dvorana Stozice, 10.5.)","KK CEDEVITA OLIMPIJA : NEGA MIS(Svorana Stozice, 21.4.)","ACH VOLLEY LJUBLJANA : CALCIT VOLLEY(Hala Tivoli, 24.4.)"]
+          var sport = ["ALEKSANDRA PRIJOVIC(Dvorana Stozice, 10.5.)","KK CEDEVITA OLIMPIJA : MEGA MIS (Dvorana Stozice, 21.4.)","ACH VOLLEY LJUBLJANA : CALCIT VOLLEY(Hala Tivoli, 24.4.)"]
 
           var cineplex = ["ABIGAIL (Cineplexx, 22.4.)","22.4.2024.",
           "BACK TO BLACK (Cineplexx, 22.4.)","22.4.2024.",
@@ -339,7 +336,7 @@ function totalPieChart(_upto, _cir_progress_id, _correct, _incorrect) {
             div.appendChild(img);
           }
           else if(sport.includes(return_event)){
-            img.src = "Pictures/sport.jpg"; //
+            img.src = "Pictures/stozice.jpg"; //
             div.appendChild(img);
           }
           else if(cineplex.includes(return_event)  || kino.includes(return_event)){
@@ -358,9 +355,6 @@ function totalPieChart(_upto, _cir_progress_id, _correct, _incorrect) {
             img.src = "Pictures/circus.jpg"; //
             div.appendChild(img);
           }
-
-
-
 
 
       })
